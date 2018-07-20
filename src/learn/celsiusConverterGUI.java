@@ -8,6 +8,8 @@ package learn;
 /**
  *
  * @author pholden
+ * 
+ * Trying to understand github branches
  */
 public class celsiusConverterGUI extends javax.swing.JFrame {
 
